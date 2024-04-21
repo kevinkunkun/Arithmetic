@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\\u7B97\u6CD5\u57FA\u7840\u4EE3\u7801\u4ED3\u5E93\\\u6570\u636E\u7ED3\u6784\\\u5B57\u7B26\u4E32\u54C8\u5E0C\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D9ACD9A1-83B2-4AB0-95C7-50D543D00033}|\u5B57\u7B26\u4E32\u54C8\u5E0C\\\u5B57\u7B26\u4E32\u54C8\u5E0C.vcxproj|F:\\\u7B97\u6CD5\u57FA\u7840\u4EE3\u7801\u4ED3\u5E93\\\u6570\u636E\u7ED3\u6784\\\u5B57\u7B26\u4E32\u54C8\u5E0C\\\u5B57\u7B26\u4E32\u54C8\u5E0C\\\u6E90.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D9ACD9A1-83B2-4AB0-95C7-50D543D00033}|\u5B57\u7B26\u4E32\u54C8\u5E0C\\\u5B57\u7B26\u4E32\u54C8\u5E0C.vcxproj|solutionrelative:\u5B57\u7B26\u4E32\u54C8\u5E0C\\\u6E90.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "\u6E90.cpp",
+              "DocumentMoniker": "F:\\\u7B97\u6CD5\u57FA\u7840\u4EE3\u7801\u4ED3\u5E93\\\u6570\u636E\u7ED3\u6784\\\u5B57\u7B26\u4E32\u54C8\u5E0C\\\u5B57\u7B26\u4E32\u54C8\u5E0C\\\u6E90.cpp",
+              "RelativeDocumentMoniker": "\u5B57\u7B26\u4E32\u54C8\u5E0C\\\u6E90.cpp",
+              "ToolTip": "F:\\\u7B97\u6CD5\u57FA\u7840\u4EE3\u7801\u4ED3\u5E93\\\u6570\u636E\u7ED3\u6784\\\u5B57\u7B26\u4E32\u54C8\u5E0C\\\u5B57\u7B26\u4E32\u54C8\u5E0C\\\u6E90.cpp",
+              "RelativeToolTip": "\u5B57\u7B26\u4E32\u54C8\u5E0C\\\u6E90.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADgAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-27T07:08:24.92Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
