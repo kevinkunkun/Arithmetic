@@ -1,0 +1,4 @@
+﻿  源.cpp
+F:\算法基础代码仓库\搜索与图论\Floyd\Floyd求最短路\Floyd求最短路\源.cpp(6,26): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+MSVCRTD.lib(exe_main.obj) : error LNK2019: 无法解析的外部符号 main，函数 "int __cdecl invoke_main(void)" (?invoke_main@@YAHXZ) 中引用了该符号
+F:\算法基础代码仓库\搜索与图论\Floyd\Floyd求最短路\x64\Debug\Floyd求最短路.exe : fatal error LNK1120: 1 个无法解析的外部命令
