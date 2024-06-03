@@ -10,7 +10,7 @@ using namespace std;
 
 const int N = 1e6 + 10;//数据范围
 
-typedef pair<int, int> PII;
+typedef pair<int, int> PII;//pair<距离,点的位置>
 
 int n, m;
 int h[N], e[N], ne[N], w[N], idx;//邻接表数组

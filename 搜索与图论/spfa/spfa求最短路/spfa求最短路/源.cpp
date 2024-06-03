@@ -8,7 +8,7 @@ const int N = 1e6 + 10;
 int n, m;
 int h[N], e[N], ne[N], w[N], idx;//邻接表数组
 int dist[N];//距离数组
-bool st[N];//状态数组
+bool st[N];//状态数组,true为在队列中，false表示不在队列中
 
 //邻接表插入函数
 void add(int a, int b, int c)
