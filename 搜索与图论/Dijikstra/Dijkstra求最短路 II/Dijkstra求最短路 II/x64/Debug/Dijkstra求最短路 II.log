@@ -1,0 +1,3 @@
+﻿  源.cpp
+F:\算法基础代码仓库\搜索与图论\Dijikstra\Dijkstra求最短路 II\Dijkstra求最短路 II\源.cpp(10,19): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+  Dijkstra求最短路 II.vcxproj -> F:\算法基础代码仓库\搜索与图论\Dijikstra\Dijkstra求最短路 II\x64\Debug\Dijkstra求最短路 II.exe

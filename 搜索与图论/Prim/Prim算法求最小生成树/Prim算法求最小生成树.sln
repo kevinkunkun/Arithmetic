@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34723.18
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Prim算法求最小生成树", "Prim算法求最小生成树\Prim算法求最小生成树.vcxproj", "{D1F49A46-CA0D-4DB0-B64A-2E7BCD00DFBB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D1F49A46-CA0D-4DB0-B64A-2E7BCD00DFBB}.Debug|x64.ActiveCfg = Debug|x64
+		{D1F49A46-CA0D-4DB0-B64A-2E7BCD00DFBB}.Debug|x64.Build.0 = Debug|x64
+		{D1F49A46-CA0D-4DB0-B64A-2E7BCD00DFBB}.Debug|x86.ActiveCfg = Debug|Win32
+		{D1F49A46-CA0D-4DB0-B64A-2E7BCD00DFBB}.Debug|x86.Build.0 = Debug|Win32
+		{D1F49A46-CA0D-4DB0-B64A-2E7BCD00DFBB}.Release|x64.ActiveCfg = Release|x64
+		{D1F49A46-CA0D-4DB0-B64A-2E7BCD00DFBB}.Release|x64.Build.0 = Release|x64
+		{D1F49A46-CA0D-4DB0-B64A-2E7BCD00DFBB}.Release|x86.ActiveCfg = Release|Win32
+		{D1F49A46-CA0D-4DB0-B64A-2E7BCD00DFBB}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4B77ACD3-51D2-4EC0-B55F-E22DDCEDDDA1}
+	EndGlobalSection
+EndGlobal
