@@ -1,0 +1,88 @@
+﻿  源.cpp
+F:\算法基础代码仓库\数学知识\求组合数\求组合数 IV\求组合数 IV\源.cpp(69,40): error C2660: “get”: 函数不接受 1 个参数
+  F:\算法基础代码仓库\数学知识\求组合数\求组合数 IV\求组合数 IV\源.cpp(27,5):
+  参见“get”的声明
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\utility(753,35):
+  可能是“const _Ty2 &&std::get(const std::pair<_Ty1,_Ty2> &&) noexcept”
+  	F:\算法基础代码仓库\数学知识\求组合数\求组合数 IV\求组合数 IV\源.cpp(69,40):
+  	“const _Ty2 &&std::get(const std::pair<_Ty1,_Ty2> &&) noexcept”: 无法从“int”推导出“const std::pair<_Ty1,_Ty2> &&”的 模板 参数
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\utility(747,35):
+  或    “const _Ty1 &&std::get(const std::pair<_Ty1,_Ty2> &&) noexcept”
+  	F:\算法基础代码仓库\数学知识\求组合数\求组合数 IV\求组合数 IV\源.cpp(69,40):
+  	“const _Ty1 &&std::get(const std::pair<_Ty1,_Ty2> &&) noexcept”: 无法从“int”推导出“const std::pair<_Ty1,_Ty2> &&”的 模板 参数
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\utility(737,70):
+  或    “const tuple_element<_Idx,std::pair<_Ty1,_Ty2>>::type &&std::get(const std::pair<_Ty1,_Ty2> &&) noexcept”
+  	F:\算法基础代码仓库\数学知识\求组合数\求组合数 IV\求组合数 IV\源.cpp(69,40):
+  	“const tuple_element<_Idx,std::pair<_Ty1,_Ty2>>::type &&std::get(const std::pair<_Ty1,_Ty2> &&) noexcept”: 无法从“int”推导出“const std::pair<_Ty1,_Ty2> &&”的 模板 参数
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\utility(731,29):
+  或    “_Ty2 &&std::get(std::pair<_Ty1,_Ty2> &&) noexcept”
+  	F:\算法基础代码仓库\数学知识\求组合数\求组合数 IV\求组合数 IV\源.cpp(69,40):
+  	“_Ty2 &&std::get(std::pair<_Ty1,_Ty2> &&) noexcept”: 无法从“int”推导出“std::pair<_Ty1,_Ty2> &&”的 模板 参数
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\utility(725,29):
+  或    “_Ty1 &&std::get(std::pair<_Ty1,_Ty2> &&) noexcept”
+  	F:\算法基础代码仓库\数学知识\求组合数\求组合数 IV\求组合数 IV\源.cpp(69,40):
+  	“_Ty1 &&std::get(std::pair<_Ty1,_Ty2> &&) noexcept”: 无法从“int”推导出“std::pair<_Ty1,_Ty2> &&”的 模板 参数
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\utility(715,64):
+  或    “tuple_element<_Idx,std::pair<_Ty1,_Ty2>>::type &&std::get(std::pair<_Ty1,_Ty2> &&) noexcept”
+  	F:\算法基础代码仓库\数学知识\求组合数\求组合数 IV\求组合数 IV\源.cpp(69,40):
+  	“tuple_element<_Idx,std::pair<_Ty1,_Ty2>>::type &&std::get(std::pair<_Ty1,_Ty2> &&) noexcept”: 无法从“int”推导出“std::pair<_Ty1,_Ty2> &&”的 模板 参数
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\utility(709,34):
+  或    “const _Ty2 &std::get(const std::pair<_Ty1,_Ty2> &) noexcept”
+  	F:\算法基础代码仓库\数学知识\求组合数\求组合数 IV\求组合数 IV\源.cpp(69,40):
+  	“const _Ty2 &std::get(const std::pair<_Ty1,_Ty2> &) noexcept”: 无法从“int”推导出“const std::pair<_Ty1,_Ty2> &”的 模板 参数
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\utility(703,34):
+  或    “const _Ty1 &std::get(const std::pair<_Ty1,_Ty2> &) noexcept”
+  	F:\算法基础代码仓库\数学知识\求组合数\求组合数 IV\求组合数 IV\源.cpp(69,40):
+  	“const _Ty1 &std::get(const std::pair<_Ty1,_Ty2> &) noexcept”: 无法从“int”推导出“const std::pair<_Ty1,_Ty2> &”的 模板 参数
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\utility(693,69):
+  或    “const tuple_element<_Idx,std::pair<_Ty1,_Ty2>>::type &std::get(const std::pair<_Ty1,_Ty2> &) noexcept”
+  	F:\算法基础代码仓库\数学知识\求组合数\求组合数 IV\求组合数 IV\源.cpp(69,40):
+  	“const tuple_element<_Idx,std::pair<_Ty1,_Ty2>>::type &std::get(const std::pair<_Ty1,_Ty2> &) noexcept”: 无法从“int”推导出“const std::pair<_Ty1,_Ty2> &”的 模板 参数
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\utility(687,28):
+  或    “_Ty2 &std::get(std::pair<_Ty1,_Ty2> &) noexcept”
+  	F:\算法基础代码仓库\数学知识\求组合数\求组合数 IV\求组合数 IV\源.cpp(69,40):
+  	“_Ty2 &std::get(std::pair<_Ty1,_Ty2> &) noexcept”: 无法从“int”推导出“std::pair<_Ty1,_Ty2> &”的 模板 参数
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\utility(681,28):
+  或    “_Ty1 &std::get(std::pair<_Ty1,_Ty2> &) noexcept”
+  	F:\算法基础代码仓库\数学知识\求组合数\求组合数 IV\求组合数 IV\源.cpp(69,40):
+  	“_Ty1 &std::get(std::pair<_Ty1,_Ty2> &) noexcept”: 无法从“int”推导出“std::pair<_Ty1,_Ty2> &”的 模板 参数
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\utility(671,63):
+  或    “tuple_element<_Idx,std::pair<_Ty1,_Ty2>>::type &std::get(std::pair<_Ty1,_Ty2> &) noexcept”
+  	F:\算法基础代码仓库\数学知识\求组合数\求组合数 IV\求组合数 IV\源.cpp(69,40):
+  	“tuple_element<_Idx,std::pair<_Ty1,_Ty2>>::type &std::get(std::pair<_Ty1,_Ty2> &) noexcept”: 无法从“int”推导出“std::pair<_Ty1,_Ty2> &”的 模板 参数
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\utility(186,34):
+  或    “const _Ty &&std::get(const std::array<_Ty,_Size> &&) noexcept”
+  	F:\算法基础代码仓库\数学知识\求组合数\求组合数 IV\求组合数 IV\源.cpp(69,40):
+  	“const _Ty &&std::get(const std::array<_Ty,_Size> &&) noexcept”: 无法从“int”推导出“const std::array<_Ty,_Size> &&”的 模板 参数
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\utility(183,28):
+  或    “_Ty &&std::get(std::array<_Ty,_Size> &&) noexcept”
+  	F:\算法基础代码仓库\数学知识\求组合数\求组合数 IV\求组合数 IV\源.cpp(69,40):
+  	“_Ty &&std::get(std::array<_Ty,_Size> &&) noexcept”: 无法从“int”推导出“std::array<_Ty,_Size> &&”的 模板 参数
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\utility(180,33):
+  或    “const _Ty &std::get(const std::array<_Ty,_Size> &) noexcept”
+  	F:\算法基础代码仓库\数学知识\求组合数\求组合数 IV\求组合数 IV\源.cpp(69,40):
+  	“const _Ty &std::get(const std::array<_Ty,_Size> &) noexcept”: 无法从“int”推导出“const std::array<_Ty,_Size> &”的 模板 参数
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\utility(177,27):
+  或    “_Ty &std::get(std::array<_Ty,_Size> &) noexcept”
+  	F:\算法基础代码仓库\数学知识\求组合数\求组合数 IV\求组合数 IV\源.cpp(69,40):
+  	“_Ty &std::get(std::array<_Ty,_Size> &) noexcept”: 无法从“int”推导出“std::array<_Ty,_Size> &”的 模板 参数
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\utility(174,72):
+  或    “const tuple_element<_Index,std::tuple<_Types...>>::type &&std::get(const std::tuple<_Types...> &&) noexcept”
+  	F:\算法基础代码仓库\数学知识\求组合数\求组合数 IV\求组合数 IV\源.cpp(69,40):
+  	“const tuple_element<_Index,std::tuple<_Types...>>::type &&std::get(const std::tuple<_Types...> &&) noexcept”: 无法从“int”推导出“const std::tuple<_Types...> &&”的 模板 参数
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\utility(171,66):
+  或    “tuple_element<_Index,std::tuple<_Types...>>::type &&std::get(std::tuple<_Types...> &&) noexcept”
+  	F:\算法基础代码仓库\数学知识\求组合数\求组合数 IV\求组合数 IV\源.cpp(69,40):
+  	“tuple_element<_Index,std::tuple<_Types...>>::type &&std::get(std::tuple<_Types...> &&) noexcept”: 无法从“int”推导出“std::tuple<_Types...> &&”的 模板 参数
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\utility(168,71):
+  或    “const tuple_element<_Index,std::tuple<_Types...>>::type &std::get(const std::tuple<_Types...> &) noexcept”
+  	F:\算法基础代码仓库\数学知识\求组合数\求组合数 IV\求组合数 IV\源.cpp(69,40):
+  	“const tuple_element<_Index,std::tuple<_Types...>>::type &std::get(const std::tuple<_Types...> &) noexcept”: 无法从“int”推导出“const std::tuple<_Types...> &”的 模板 参数
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\utility(165,65):
+  或    “tuple_element<_Index,std::tuple<_Types...>>::type &std::get(std::tuple<_Types...> &) noexcept”
+  	F:\算法基础代码仓库\数学知识\求组合数\求组合数 IV\求组合数 IV\源.cpp(69,40):
+  	“tuple_element<_Index,std::tuple<_Types...>>::type &std::get(std::tuple<_Types...> &) noexcept”: 无法从“int”推导出“std::tuple<_Types...> &”的 模板 参数
+  F:\算法基础代码仓库\数学知识\求组合数\求组合数 IV\求组合数 IV\源.cpp(69,40):
+  尝试匹配参数列表“(int)”时
+  
+F:\算法基础代码仓库\数学知识\求组合数\求组合数 IV\求组合数 IV\源.cpp(78,13): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
