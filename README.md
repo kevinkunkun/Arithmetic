@@ -1,25 +1,25 @@
 # Arithmetic
 
-#### Introduction
-A repository for the study of algorithms
+#### 介绍
+研究算法的仓库
 
 
-#### Disclaimer
+#### 申明
 
-All the code in this repository is written by me while studying the basic templates for the Algorithmic Competition.
-This repository contains some of the code templates involved in the algorithmic competition and the comments I made while practicing.
+此仓库所有代码均为本人在学习算法竞赛的基础模板时所编写
+含有算法竞赛中所涉及的部分代码模板及本人在练习时的注释
 
-#### Outline
+#### 大致内容
 
-1. Basic algorithm templates
-Such as: quick sort, subsumption sort, discretization, etc.
-2. Data structure algorithm templates
-Such as: single linked table, double linked table, heap and Tire tree, KMP with array simulation.
-3. Search and graph theory algorithms
-Such as: DFS, BFS, spfa, prim, etc.
-4. Common mathematical knowledge in the application of algorithms algorithms
-Such as: prime number, approximate number, Euler function, fast power, etc.
-5. Dynamic programming DP part of the algorithm
-Such as: backpack problem, linear DP, interval DP, tree DP, etc.
-6. Greedy algorithms
-Such as: Huffman tree, sorting inequality, absolute value inequality, etc.
+1. 基础算法模板
+如：快速排序、归并排序、离散化等
+2. 数据结构部分算法模板
+如：用数组模拟式的单链表、双链表、堆和Tire树、KMP等
+3. 搜索与图论的部分算法
+如：DFS、BFS、spfa、prim等
+4. 常见数学知识在算法中的应用算法
+如：求质数、约数、欧拉函数、快速幂等
+5. 动态规划DP的部分算法
+如：背包问题、线性DP、区间DP、树型DP等
+6. 贪心算法
+如：Huffman树、排序不等式、绝对值不等式等

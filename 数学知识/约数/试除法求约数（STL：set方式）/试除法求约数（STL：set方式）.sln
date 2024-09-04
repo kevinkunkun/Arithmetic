@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "试除法求约数（STL：set方式）", "试除法求约数（STL：set方式）\试除法求约数（STL：set方式）.vcxproj", "{F0263FA4-7E9E-4384-B98E-C4021A7D70DE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F0263FA4-7E9E-4384-B98E-C4021A7D70DE}.Debug|x64.ActiveCfg = Debug|x64
+		{F0263FA4-7E9E-4384-B98E-C4021A7D70DE}.Debug|x64.Build.0 = Debug|x64
+		{F0263FA4-7E9E-4384-B98E-C4021A7D70DE}.Debug|x86.ActiveCfg = Debug|Win32
+		{F0263FA4-7E9E-4384-B98E-C4021A7D70DE}.Debug|x86.Build.0 = Debug|Win32
+		{F0263FA4-7E9E-4384-B98E-C4021A7D70DE}.Release|x64.ActiveCfg = Release|x64
+		{F0263FA4-7E9E-4384-B98E-C4021A7D70DE}.Release|x64.Build.0 = Release|x64
+		{F0263FA4-7E9E-4384-B98E-C4021A7D70DE}.Release|x86.ActiveCfg = Release|Win32
+		{F0263FA4-7E9E-4384-B98E-C4021A7D70DE}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {15284561-3743-4A21-850E-F5646D9F2C76}
+	EndGlobalSection
+EndGlobal
